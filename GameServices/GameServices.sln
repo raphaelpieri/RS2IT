@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameService.Shared", "GameService.Shared\GameService.Shared.csproj", "{96561267-2D9E-427A-AA51-7F59279B312A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameServices.Domain", "GameServices.Domain\GameServices.Domain.csproj", "{36FB0246-8495-48A9-98E9-4A9F2A27D705}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameServices.Tests", "GameServices.Tests\GameServices.Tests.csproj", "{CDDEC660-9DCE-481D-B33C-8A7408CA88EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96561267-2D9E-427A-AA51-7F59279B312A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96561267-2D9E-427A-AA51-7F59279B312A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96561267-2D9E-427A-AA51-7F59279B312A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96561267-2D9E-427A-AA51-7F59279B312A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36FB0246-8495-48A9-98E9-4A9F2A27D705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36FB0246-8495-48A9-98E9-4A9F2A27D705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36FB0246-8495-48A9-98E9-4A9F2A27D705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36FB0246-8495-48A9-98E9-4A9F2A27D705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDDEC660-9DCE-481D-B33C-8A7408CA88EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDDEC660-9DCE-481D-B33C-8A7408CA88EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDDEC660-9DCE-481D-B33C-8A7408CA88EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDDEC660-9DCE-481D-B33C-8A7408CA88EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

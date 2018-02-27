@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2017.3/system/resharper-host/local/Transient/ReSharperHost/v11/SolutionCaches/_GameServices.1938615048.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.3.1/build/netcoreapp1.0/xunit.runner.reporters.netcoreapp10.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.3.1/build/netcoreapp1.0/xunit.runner.utility.netcoreapp10.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.3.1/build/netcoreapp1.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="GameService.Shared" t="IncludeRecursive">
+        <e p="Commands" t="Include">
+          <e p="ICommand.cs" t="Include" />
+          <e p="ICommandHandler.cs" t="Include" />
+          <e p="ICommandResult.cs" t="Include" />
+        </e>
+        <e p="Entities" t="Include">
+          <e p="Entity.cs" t="Include" />
+        </e>
+        <e p="GameService.Shared.csproj" t="IncludeRecursive" />
+        <e p="Settings.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="GameService.Shared.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="GameServices.Domain" t="IncludeRecursive">
+        <e p="GameServices.Domain.csproj" t="IncludeRecursive" />
+        <e p="GamesContext" t="Include">
+          <e p="Commands" t="Include">
+            <e p="FriendCommands" t="Include">
+              <e p="Inputs" t="Include">
+                <e p="CreateFriendCommand.cs" t="Include" />
+                <e p="RemoveFriendCommand.cs" t="Include" />
+                <e p="UpdateFriendCommand.cs" t="Include" />
+              </e>
+              <e p="Outputs" t="Include">
+                <e p="FriendCommandResult.cs" t="Include" />
+              </e>
+            </e>
+            <e p="GameCommands" t="Include">
+              <e p="Inputs" t="Include">
+                <e p="CreateGameCommand.cs" t="Include" />
+                <e p="LendCommand.cs" t="Include" />
+                <e p="RemoveGameCommand.cs" t="Include" />
+                <e p="ReturnCommand.cs" t="Include" />
+                <e p="UpdateGameCommand.cs" t="Include" />
+              </e>
+              <e p="Outputs" t="Include">
+                <e p="GameCommandResult.cs" t="Include" />
+              </e>
+            </e>
+            <e p="GameCompanyCommands" t="Include">
+              <e p="Inputs" t="Include">
+                <e p="CreateGameCompanyCommand.cs" t="Include" />
+              </e>
+              <e p="Outputs" t="Include">
+                <e p="GameCompanyCommandResult.cs" t="Include" />
+              </e>
+            </e>
+            <e p="UserCommands" t="Include">
+              <e p="Inputs" t="Include">
+                <e p="CreateUserCommand.cs" t="Include" />
+              </e>
+              <e p="Outputs" t="Include">
+                <e p="UserCommandResult.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Entities" t="Include">
+            <e p="Friend.cs" t="Include" />
+            <e p="Game.cs" t="Include" />
+            <e p="GameCompany.cs" t="Include" />
+            <e p="Loan.cs" t="Include" />
+            <e p="Person.cs" t="Include" />
+            <e p="User.cs" t="Include" />
+          </e>
+          <e p="Handlers" t="Include">
+            <e p="FriendHandler.cs" t="Include" />
+            <e p="GameCompanyHandler.cs" t="Include" />
+            <e p="GameHandler.cs" t="Include" />
+            <e p="UserHandler.cs" t="Include" />
+          </e>
+          <e p="Queries" t="Include">
+            <e p="FriendListQueryResult.cs" t="Include" />
+            <e p="FriendQueryResult.cs" t="Include" />
+            <e p="GameCompanyListQueryResult.cs" t="Include" />
+            <e p="GameListQueryResult.cs" t="Include" />
+            <e p="GameQueryResult.cs" t="Include" />
+            <e p="LoanQueryResult.cs" t="Include" />
+          </e>
+          <e p="Repositories" t="Include">
+            <e p="IFriendRepository.cs" t="Include" />
+            <e p="IGameCompanyRepository.cs" t="Include" />
+            <e p="IGameRepository.cs" t="Include" />
+            <e p="IUserRepository.cs" t="Include" />
+          </e>
+          <e p="ValueObjects" t="Include">
+            <e p="Email.cs" t="Include" />
+            <e p="Name.cs" t="Include" />
+          </e>
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="GameServices.Domain.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="GameServices.Tests" t="IncludeRecursive">
+        <e p="Entities" t="Include">
+          <e p="FriendTest.cs" t="Include" />
+          <e p="GameTests.cs" t="Include" />
+          <e p="UserTest.cs" t="Include" />
+        </e>
+        <e p="GameServices.Tests.csproj" t="IncludeRecursive" />
+        <e p="ValueObject" t="Include">
+          <e p="EmailTest.cs" t="Include" />
+          <e p="NameTests.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="GameServices.Tests.AssemblyInfo.cs" t="Include" />
+              <e p="GameServices.Tests.Program.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="GameServices.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

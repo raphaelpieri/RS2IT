@@ -1,0 +1,10 @@
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Domain/bin/Debug/netstandard2.0/GameServices.Domain.deps.json
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Domain/bin/Debug/netstandard2.0/GameServices.Domain.dll
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Domain/bin/Debug/netstandard2.0/GameServices.Domain.pdb
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Domain/bin/Debug/netstandard2.0/GameService.Shared.dll
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Domain/bin/Debug/netstandard2.0/GameService.Shared.pdb
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Domain/obj/Debug/netstandard2.0/GameServices.Domain.csproj.CoreCompileInputs.cache
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Domain/obj/Debug/netstandard2.0/GameServices.Domain.AssemblyInfoInputs.cache
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Domain/obj/Debug/netstandard2.0/GameServices.Domain.AssemblyInfo.cs
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Domain/obj/Debug/netstandard2.0/GameServices.Domain.dll
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Domain/obj/Debug/netstandard2.0/GameServices.Domain.pdb

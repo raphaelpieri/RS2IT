@@ -1,0 +1,17 @@
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Tests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Tests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Tests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Tests/bin/Debug/netcoreapp2.0/GameServices.Tests.deps.json
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Tests/bin/Debug/netcoreapp2.0/GameServices.Tests.runtimeconfig.json
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Tests/bin/Debug/netcoreapp2.0/GameServices.Tests.runtimeconfig.dev.json
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Tests/bin/Debug/netcoreapp2.0/GameServices.Tests.dll
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Tests/bin/Debug/netcoreapp2.0/GameServices.Tests.pdb
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Tests/bin/Debug/netcoreapp2.0/GameService.Shared.dll
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Tests/bin/Debug/netcoreapp2.0/GameServices.Domain.dll
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Tests/bin/Debug/netcoreapp2.0/GameService.Shared.pdb
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Tests/bin/Debug/netcoreapp2.0/GameServices.Domain.pdb
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Tests/obj/Debug/netcoreapp2.0/GameServices.Tests.csproj.CoreCompileInputs.cache
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Tests/obj/Debug/netcoreapp2.0/GameServices.Tests.AssemblyInfoInputs.cache
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Tests/obj/Debug/netcoreapp2.0/GameServices.Tests.AssemblyInfo.cs
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Tests/obj/Debug/netcoreapp2.0/GameServices.Tests.dll
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Tests/obj/Debug/netcoreapp2.0/GameServices.Tests.pdb
