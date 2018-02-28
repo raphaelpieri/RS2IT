@@ -11,7 +11,8 @@
         "dependencies": {
           "Flunt": "1.0.2",
           "GameService.Shared": "1.0.0",
-          "NETStandard.Library": "2.0.1"
+          "NETStandard.Library": "2.0.1",
+          "System.Interactive.Async": "3.0.3000.0"
         },
         "runtime": {
           "GameServices.Domain.dll": {}
@@ -37,6 +38,11 @@
         },
         "runtime": {
           "GameService.Shared.dll": {}
+        }
+      },
+      "System.Interactive.Async/3.0.3000.0": {
+        "runtime": {
+          "System.Interactive.Async.dll": {}
         }
       }
     }
@@ -70,6 +76,11 @@
     },
     "GameService.Shared/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Interactive.Async/3.0.3000.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

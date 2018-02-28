@@ -14,4 +14,7 @@
     <ProjectReference Include="..\GameService.Shared\GameService.Shared.csproj" />
     <ProjectReference Include="..\GameServices.Domain\GameServices.Domain.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Commands\GameCompanyCommandTest" />
+  </ItemGroup>
 </Project>

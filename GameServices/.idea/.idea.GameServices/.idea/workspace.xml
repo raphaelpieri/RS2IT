@@ -10,349 +10,228 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.5">
-      <split-first>
-        <leaf>
-          <file leaf-file-name="UpdateFriendCommand.cs" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/FriendCommands/Inputs/UpdateFriendCommand.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="270">
-                  <caret line="18" column="73" lean-forward="false" selection-start-line="18" selection-start-column="73" selection-end-line="18" selection-end-column="73" />
-                  <folding>
-                    <marker date="1519712564697" expanded="false" signature="6:100" ph="..." />
-                    <marker date="1519712564697" expanded="true" signature="175:1356" ph="{...}" />
-                    <marker date="1519712564697" expanded="true" signature="236:1354" ph="{...}" />
-                    <marker date="1519712564697" expanded="true" signature="496:1348" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="CreateGameCompanyCommand.cs" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/GameCompanyCommands/Inputs/CreateGameCompanyCommand.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="298">
-                  <caret line="17" column="92" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="17" selection-end-column="92" />
-                  <folding>
-                    <marker date="1519710452200" expanded="true" signature="6:100" ph="..." />
-                    <marker date="1519710452200" expanded="true" signature="180:765" ph="{...}" />
-                    <marker date="1519710452200" expanded="true" signature="248:763" ph="{...}" />
-                    <marker date="1519710452200" expanded="true" signature="373:757" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="CreateGameCommand.cs" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/GameCommands/Inputs/CreateGameCommand.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="270">
-                  <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="105" />
-                  <folding>
-                    <marker date="1519710600073" expanded="true" signature="6:100" ph="..." />
-                    <marker date="1519710600073" expanded="true" signature="173:899" ph="{...}" />
-                    <marker date="1519710600073" expanded="true" signature="233:897" ph="{...}" />
-                    <marker date="1519710600073" expanded="true" signature="404:891" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="LendCommand.cs" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/GameCommands/Inputs/LendCommand.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="180">
-                  <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-                  <folding>
-                    <marker date="1519712681593" expanded="true" signature="6:100" ph="..." />
-                    <marker date="1519712681593" expanded="true" signature="173:663" ph="{...}" />
-                    <marker date="1519712681593" expanded="true" signature="227:661" ph="{...}" />
-                    <marker date="1519712681593" expanded="true" signature="354:655" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="ReturnCommand.cs" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/GameCommands/Inputs/ReturnCommand.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="270">
-                  <caret line="15" column="30" lean-forward="false" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-                  <folding>
-                    <marker date="1519711153458" expanded="true" signature="6:100" ph="..." />
-                    <marker date="1519711153458" expanded="true" signature="173:510" ph="{...}" />
-                    <marker date="1519711153458" expanded="true" signature="229:508" ph="{...}" />
-                    <marker date="1519711153458" expanded="true" signature="304:502" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="UserHandler.cs" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Handlers/UserHandler.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="162">
-                  <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="31" selection-end-column="106" />
-                  <folding>
-                    <marker date="1519711565090" expanded="true" signature="6:355" ph="..." />
-                    <marker date="1519711565090" expanded="true" signature="408:1582" ph="{...}" />
-                    <marker date="1519711565090" expanded="true" signature="488:1580" ph="{...}" />
-                    <marker date="1519711565090" expanded="true" signature="604:662" ph="{...}" />
-                    <marker date="1519711565090" expanded="true" signature="727:1574" ph="{...}" />
-                    <marker date="1519711565090" expanded="true" signature="1439:1562" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="GameCompanyHandler.cs" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Handlers/GameCompanyHandler.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="226">
-                  <caret line="28" column="113" lean-forward="false" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="113" />
-                  <folding>
-                    <marker date="1519712681777" expanded="true" signature="6:341" ph="..." />
-                    <marker date="1519712681777" expanded="true" signature="394:1428" ph="{...}" />
-                    <marker date="1519712681777" expanded="true" signature="488:1426" ph="{...}" />
-                    <marker date="1519712681777" expanded="true" signature="715:819" ph="{...}" />
-                    <marker date="1519712681777" expanded="true" signature="891:1420" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="FriendHandler.cs" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Handlers/FriendHandler.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="244">
-                  <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="81" selection-end-column="9" />
-                  <folding>
-                    <marker date="1519713816163" expanded="true" signature="6:373" ph="..." />
-                    <marker date="1519713816163" expanded="true" signature="426:3025" ph="{...}" />
-                    <marker date="1519713816163" expanded="true" signature="595:3023" ph="{...}" />
-                    <marker date="1519713816163" expanded="true" signature="807:911" ph="{...}" />
-                    <marker date="1519713816163" expanded="true" signature="978:1607" ph="{...}" />
-                    <marker date="1519713816163" expanded="true" signature="1674:2295" ph="{...}" />
-                    <marker date="1519713816163" expanded="true" signature="2362:2520" ph="{...}" />
-                    <marker date="1519713816163" expanded="true" signature="2579:2704" ph="{...}" />
-                    <marker date="1519713816163" expanded="true" signature="2798:3017" ph="{...}" />
-                    <marker date="1519713816163" expanded="true" signature="2906:3005" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="GameHandler.cs" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Handlers/GameHandler.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1638">
-                  <caret line="91" column="62" lean-forward="false" selection-start-line="91" selection-start-column="62" selection-end-line="91" selection-end-column="62" />
-                  <folding>
-                    <marker date="1519713808190" expanded="true" signature="6:302" ph="..." />
-                    <marker date="1519713808190" expanded="true" signature="355:3718" ph="{...}" />
-                    <marker date="1519713808190" expanded="true" signature="576:3716" ph="{...}" />
-                    <marker date="1519713808190" expanded="true" signature="998:1212" ph="{...}" />
-                    <marker date="1519713808190" expanded="true" signature="1277:1751" ph="{...}" />
-                    <marker date="1519713808190" expanded="true" signature="1816:2295" ph="{...}" />
-                    <marker date="1519713808190" expanded="true" signature="2360:2512" ph="{...}" />
-                    <marker date="1519713808190" expanded="true" signature="2571:3062" ph="{...}" />
-                    <marker date="1519713808190" expanded="true" signature="3123:3503" ph="{...}" />
-                    <marker date="1519713808190" expanded="true" signature="3569:3692" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="UpdateGameCommand.cs" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/GameCommands/Inputs/UpdateGameCommand.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="234">
-                  <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-                  <folding>
-                    <marker date="1519713043930" expanded="false" signature="6:100" ph="..." />
-                    <marker date="1519713043930" expanded="true" signature="173:896" ph="{...}" />
-                    <marker date="1519713043930" expanded="true" signature="233:894" ph="{...}" />
-                    <marker date="1519713043930" expanded="true" signature="408:888" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="Game.cs" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Entities/Game.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="227">
-                  <caret line="29" column="9" lean-forward="false" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-                  <folding>
-                    <marker date="1519713102411" expanded="false" signature="6:154" ph="..." />
-                    <marker date="1519713102411" expanded="true" signature="207:1770" ph="{...}" />
-                    <marker date="1519713102411" expanded="true" signature="240:1768" ph="{...}" />
-                    <marker date="1519713102411" expanded="true" signature="325:345" ph="{...}" />
-                    <marker date="1519713102411" expanded="true" signature="411:630" ph="{...}" />
-                    <marker date="1519713102411" expanded="true" signature="691:767" ph="{...}" />
-                    <marker date="1519713102411" expanded="true" signature="1125:1395" ph="{...}" />
-                    <marker date="1519713102411" expanded="true" signature="1162:1259" ph="{...}" />
-                    <marker date="1519713102411" expanded="true" signature="1425:1762" ph="{...}" />
-                    <marker date="1519713102411" expanded="true" signature="1463:1635" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Loan.cs" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Entities/Loan.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="198">
-                  <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-                  <folding>
-                    <marker date="1519702939075" expanded="false" signature="6:48" ph="..." />
-                    <marker date="1519702939075" expanded="true" signature="101:569" ph="{...}" />
-                    <marker date="1519702939075" expanded="true" signature="134:567" ph="{...}" />
-                    <marker date="1519702939075" expanded="true" signature="165:185" ph="{...}" />
-                    <marker date="1519702939075" expanded="true" signature="221:307" ph="{...}" />
-                    <marker date="1519702939075" expanded="true" signature="502:561" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="IFriendRepository.cs" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Repositories/IFriendRepository.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="162">
-                  <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-                  <folding>
-                    <marker date="1519705942898" expanded="false" signature="6:144" ph="..." />
-                    <marker date="1519705942898" expanded="true" signature="201:501" ph="{...}" />
-                    <marker date="1519705942898" expanded="true" signature="242:499" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Friend.cs" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Entities/Friend.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="245">
-                  <caret line="31" column="99" lean-forward="false" selection-start-line="31" selection-start-column="99" selection-end-line="31" selection-end-column="99" />
-                  <folding>
-                    <marker date="1519712798921" expanded="false" signature="6:77" ph="..." />
-                    <marker date="1519712798921" expanded="true" signature="130:1224" ph="{...}" />
-                    <marker date="1519712798921" expanded="true" signature="165:1222" ph="{...}" />
-                    <marker date="1519712798921" expanded="true" signature="198:231" ph="{...}" />
-                    <marker date="1519712798921" expanded="true" signature="323:664" ph="{...}" />
-                    <marker date="1519712798921" expanded="true" signature="729:1110" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="User.cs" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Entities/User.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="144">
-                  <caret line="22" column="92" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="22" selection-end-column="92" />
-                  <folding>
-                    <marker date="1519700712942" expanded="false" signature="6:123" ph="..." />
-                    <marker date="1519700712942" expanded="true" signature="176:1963" ph="{...}" />
-                    <marker date="1519700712942" expanded="true" signature="209:1961" ph="{...}" />
-                    <marker date="1519700712942" expanded="true" signature="240:260" ph="{...}" />
-                    <marker date="1519700712942" expanded="true" signature="383:962" ph="{...}" />
-                    <marker date="1519700712942" expanded="true" signature="1145:1382" ph="{...}" />
-                    <marker date="1519700712942" expanded="true" signature="1436:1946" ph="{...}" />
-                    <marker date="1519700712942" expanded="true" signature="1816:1895" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Person.cs" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Entities/Person.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="306">
-                  <caret line="18" column="44" lean-forward="false" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
-                  <folding>
-                    <marker date="1519712719085" expanded="false" signature="6:87" ph="..." />
-                    <marker date="1519712719085" expanded="true" signature="140:480" ph="{...}" />
-                    <marker date="1519712719085" expanded="true" signature="184:478" ph="{...}" />
-                    <marker date="1519712719085" expanded="true" signature="217:250" ph="{...}" />
-                    <marker date="1519712719085" expanded="true" signature="299:371" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="IGameCompanyRepository.cs" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Repositories/IGameCompanyRepository.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="162">
-                  <caret line="12" column="54" lean-forward="false" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
-                  <folding>
-                    <marker date="1519706127939" expanded="false" signature="6:144" ph="..." />
-                    <marker date="1519706127939" expanded="true" signature="201:396" ph="{...}" />
-                    <marker date="1519706127939" expanded="true" signature="247:394" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="IGameRepository.cs" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Repositories/IGameRepository.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="126">
-                  <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-                  <folding>
-                    <marker date="1519708380848" expanded="false" signature="6:144" ph="..." />
-                    <marker date="1519708380848" expanded="true" signature="201:475" ph="{...}" />
-                    <marker date="1519708380848" expanded="true" signature="240:473" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="GameCompanyCommandResult.cs" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/GameCompanyCommands/Outputs/GameCompanyCommandResult.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="180">
-                  <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-                  <folding>
-                    <marker date="1519709910673" expanded="true" signature="115:504" ph="{...}" />
-                    <marker date="1519709910673" expanded="true" signature="176:502" ph="{...}" />
-                    <marker date="1519709910673" expanded="true" signature="264:369" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="FriendCommandResult.cs" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/FriendCommands/Outputs/FriendCommandResult.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="144">
-                  <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-                  <folding>
-                    <marker date="1519709808728" expanded="true" signature="110:489" ph="{...}" />
-                    <marker date="1519709808728" expanded="true" signature="166:487" ph="{...}" />
-                    <marker date="1519709808728" expanded="true" signature="249:354" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="GameRepository.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GameServices.Infra/Repositories/GameRepository.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+              <folding>
+                <marker date="1519802885218" expanded="false" signature="6:318" ph="..." />
+                <marker date="1519802885218" expanded="true" signature="361:1842" ph="{...}" />
+                <marker date="1519802885218" expanded="true" signature="413:1840" ph="{...}" />
+                <marker date="1519802885218" expanded="true" signature="532:584" ph="{...}" />
+                <marker date="1519802885218" expanded="true" signature="618:748" ph="{...}" />
+                <marker date="1519802885218" expanded="true" signature="785:843" ph="{...}" />
+                <marker date="1519802885218" expanded="true" signature="882:965" ph="{...}" />
+                <marker date="1519802885218" expanded="true" signature="1002:1089" ph="{...}" />
+                <marker date="1519802885218" expanded="true" signature="1155:1467" ph="{...}" />
+                <marker date="1519802885218" expanded="true" signature="1548:1834" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IGameRepository.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Repositories/IGameRepository.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+              <folding>
+                <marker date="1519802885162" expanded="false" signature="6:174" ph="..." />
+                <marker date="1519802885162" expanded="true" signature="231:537" ph="{...}" />
+                <marker date="1519802885162" expanded="true" signature="270:535" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FakeFriendRepository.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GameServices.Tests/Fakes/FakeFriendRepository.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="31" column="48" lean-forward="false" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="48" />
+              <folding>
+                <marker date="1519802188135" expanded="false" signature="6:280" ph="..." />
+                <marker date="1519802188135" expanded="true" signature="316:1258" ph="{...}" />
+                <marker date="1519802188135" expanded="true" signature="376:1256" ph="{...}" />
+                <marker date="1519802188135" expanded="true" signature="417:469" ph="{...}" />
+                <marker date="1519802188135" expanded="true" signature="510:530" ph="{...}" />
+                <marker date="1519802188135" expanded="true" signature="573:593" ph="{...}" />
+                <marker date="1519802188135" expanded="true" signature="630:650" ph="{...}" />
+                <marker date="1519802188135" expanded="true" signature="720:789" ph="{...}" />
+                <marker date="1519802188135" expanded="true" signature="872:941" ph="{...}" />
+                <marker date="1519802188135" expanded="true" signature="977:1250" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FakeGameCompanyRepository.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GameServices.Tests/Fakes/FakeGameCompanyRepository.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="27" column="48" lean-forward="false" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="48" />
+              <folding>
+                <marker date="1519802198471" expanded="false" signature="6:280" ph="..." />
+                <marker date="1519802198471" expanded="true" signature="316:944" ph="{...}" />
+                <marker date="1519802198471" expanded="true" signature="386:942" ph="{...}" />
+                <marker date="1519802198471" expanded="true" signature="432:708" ph="{...}" />
+                <marker date="1519802198471" expanded="true" signature="759:779" ph="{...}" />
+                <marker date="1519802198471" expanded="true" signature="867:936" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FakeGameRepository.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GameServices.Tests/Fakes/FakeGameRepository.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="537">
+              <caret line="37" column="48" lean-forward="false" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="48" />
+              <folding>
+                <marker date="1519802213475" expanded="false" signature="6:280" ph="..." />
+                <marker date="1519802213475" expanded="true" signature="316:1228" ph="{...}" />
+                <marker date="1519802213475" expanded="true" signature="372:1226" ph="{...}" />
+                <marker date="1519802213475" expanded="true" signature="411:762" ph="{...}" />
+                <marker date="1519802213475" expanded="true" signature="799:819" ph="{...}" />
+                <marker date="1519802213475" expanded="true" signature="858:878" ph="{...}" />
+                <marker date="1519802213475" expanded="true" signature="915:935" ph="{...}" />
+                <marker date="1519802213475" expanded="true" signature="1001:1070" ph="{...}" />
+                <marker date="1519802213475" expanded="true" signature="1151:1220" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameCompanyHandler.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Handlers/GameCompanyHandler.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1519712681777" expanded="false" signature="6:341" ph="..." />
+                <marker date="1519712681777" expanded="true" signature="394:1428" ph="{...}" />
+                <marker date="1519712681777" expanded="true" signature="488:1426" ph="{...}" />
+                <marker date="1519712681777" expanded="true" signature="715:819" ph="{...}" />
+                <marker date="1519712681777" expanded="true" signature="891:1420" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GameService.API/Controllers/UserController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+              <folding>
+                <marker date="1519800844313" expanded="false" signature="6:253" ph="..." />
+                <marker date="1519800844313" expanded="true" signature="292:802" ph="{...}" />
+                <marker date="1519800844313" expanded="true" signature="343:800" ph="{...}" />
+                <marker date="1519800844313" expanded="true" signature="490:542" ph="{...}" />
+                <marker date="1519800844313" expanded="true" signature="675:794" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FriendController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GameService.API/Controllers/FriendController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="64" selection-end-column="9" />
+              <folding>
+                <marker date="1519802315519" expanded="false" signature="6:404" ph="..." />
+                <marker date="1519802315519" expanded="true" signature="443:2127" ph="{...}" />
+                <marker date="1519802315519" expanded="true" signature="496:2125" ph="{...}" />
+                <marker date="1519802315519" expanded="true" signature="717:807" ph="{...}" />
+                <marker date="1519802315519" expanded="true" signature="944:1058" ph="{...}" />
+                <marker date="1519802315519" expanded="true" signature="1201:1315" ph="{...}" />
+                <marker date="1519802315519" expanded="true" signature="1438:1657" ph="{...}" />
+                <marker date="1519802315519" expanded="true" signature="1513:1552" ph="{...}" />
+                <marker date="1519802315519" expanded="true" signature="1769:1852" ph="{...}" />
+                <marker date="1519802315519" expanded="true" signature="1971:2119" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameCompanyController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GameService.API/Controllers/GameCompanyController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="393">
+              <caret line="32" column="33" lean-forward="false" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+              <folding>
+                <marker date="1519802636353" expanded="false" signature="6:409" ph="..." />
+                <marker date="1519802636353" expanded="true" signature="448:1399" ph="{...}" />
+                <marker date="1519802636353" expanded="true" signature="497:1397" ph="{...}" />
+                <marker date="1519802636353" expanded="true" signature="752:842" ph="{...}" />
+                <marker date="1519802636353" expanded="true" signature="999:1113" ph="{...}" />
+                <marker date="1519802636353" expanded="true" signature="1243:1391" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameController.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GameService.API/Controllers/GameController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="41" column="71" lean-forward="false" selection-start-line="41" selection-start-column="71" selection-end-line="41" selection-end-column="71" />
+              <folding>
+                <marker date="1519802876934" expanded="true" signature="6:473" ph="..." />
+                <marker date="1519802876934" expanded="true" signature="512:2679" ph="{...}" />
+                <marker date="1519802876934" expanded="true" signature="563:2677" ph="{...}" />
+                <marker date="1519802876934" expanded="true" signature="792:882" ph="{...}" />
+                <marker date="1519802876934" expanded="true" signature="1014:1128" ph="{...}" />
+                <marker date="1519802876934" expanded="true" signature="1263:1377" ph="{...}" />
+                <marker date="1519802876934" expanded="true" signature="1514:1628" ph="{...}" />
+                <marker date="1519802876934" expanded="true" signature="1767:1881" ph="{...}" />
+                <marker date="1519802876934" expanded="true" signature="2002:2219" ph="{...}" />
+                <marker date="1519802876934" expanded="true" signature="2075:2114" ph="{...}" />
+                <marker date="1519802876934" expanded="true" signature="2327:2408" ph="{...}" />
+                <marker date="1519802876934" expanded="true" signature="2523:2671" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Notification</find>
+    </findStrings>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Handlers/UserHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameServices.Tests/Commands/GameCommands/UpdateGameCommandTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Handlers/GameCompanyHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameServices.Tests/Commands/GameCommands/CreateGameCommandTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Handlers/FriendHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Handlers/GameHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameServices.Tests/Commands/GameCompanyCommands/CreateGameCompanyCommandTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameServices.Tests/Commands/UserCommands/CreateUserCommandTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameServices.Infra/Repositories/UserRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameServices.Tests/Commands/FriendCommands/RemoveFriendCommandTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameServices.Infra/Repositories/FriendRepository.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameServices.Tests/ValueObject/NameTests.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/GameStore.Shared/Class1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameServices.Tests/Commands/FriendCommands/UpdateFriendCommandTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameServices.Infra/Repositories/GameCompanyRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameServices.Tests/Commands/FriendCommands/CreateFriendCommandTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameServices.Infra/Repositories/GameRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameServices.Tests/Handlers/GameHandlerTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameServices.Tests/Handlers/UserHandlerTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameServices.Tests/Handlers/GameCompanyHandlerTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameServices.Tests/Handlers/FriendHandlerTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameServices.Tests/Fakes/FakeGameRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameServices.Tests/Fakes/FakeUserRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameServices.Tests/Fakes/FakeGameCompanyRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameServices.Tests/Fakes/FakeFriendRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameServices.Tests/Commands/GameCommands/ReturnCommandTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameServices.Tests/Commands/GameCommands/LendCommandTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameServices.Tests/Commands/GameCommands/RemoveGameCommandTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameServices.Tests/ValueObject/EmailTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameServices.Tests/Entities/UserTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Entities/Friend.cs" root0="FORCE_HIGHLIGHTING" />
@@ -360,9 +239,11 @@
     <setting file="file://$PROJECT_DIR$/GameServices.Tests/Entities/FriendTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameService.Shared/Entities/Entity.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Entities/GameCompany.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameService.API/Startup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameService.Shared/Commands/ICommand.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Entities/Game.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameService.Shared/Commands/ICommandResult.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameService.API/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameService.Shared/Commands/ICommandHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Entities/Loan.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameServices.Tests/Entities/GameTests.cs" root0="FORCE_HIGHLIGHTING" />
@@ -372,14 +253,21 @@
     <setting file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Repositories/IGameRepository.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Queries/FriendListQueryResult.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Queries/FriendQueryResult.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameServices.Infra/Transactions/IUnitOfWork.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Queries/GameCompanyListQueryResult.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameServices.Infra/Transactions/UnitOfWork.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Queries/GameQueryResult.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Queries/LoanQueryResult.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Entities/Person.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Queries/GameListQueryResult.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameService.API/Controllers/BaseController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/ValueObjects/Name.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameService.API/Controllers/UserController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/ValueObjects/Email.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameService.API/Controllers/FriendController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameService.API/Controllers/GameCompanyController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/UserCommands/Inputs/CreateUserCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameService.API/Controllers/GameController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/UserCommands/Outputs/UserCommandResult.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/FriendCommands/Inputs/CreateFriendCommand.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/FriendCommands/Inputs/UpdateFriendCommand.cs" root0="FORCE_HIGHLIGHTING" />
@@ -388,67 +276,73 @@
     <setting file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/GameCompanyCommands/Outputs/GameCompanyCommandResult.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/GameCompanyCommands/Inputs/CreateGameCompanyCommand.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Entities/User.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameServices.Infra/Mappings/LoanMapping.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameServices.Infra/Mappings/GameMapping.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameServices.Infra/Mappings/GameCompanyMapping.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/GameCommands/Outputs/GameCommandResult.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameServices.Infra/Mappings/FriendMapping.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/GameCommands/Inputs/CreateGameCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameServices.Infra/Mappings/UserMapping.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/GameCommands/Inputs/UpdateGameCommand.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/GameCommands/Inputs/RemoveGameCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameServices.Infra/Contexts/GameServiceContext.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/GameCommands/Inputs/LendCommand.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/GameCommands/Inputs/ReturnCommand.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/GameService.Shared/Commands/ICommandHandler.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/Class1.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/ValueObjects/Name.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/ValueObjects/Email.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/ValueObjects/Phone.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Tests/UnitTest1.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Tests/ValueObject/NameTests.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Tests/ValueObject/EmailTest.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Tests/Entities/UserTest.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Entities/User.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Tests/Entities/FriendTest.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Entities/GameCompany.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Entities/Loan.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Tests/Entities/GameTests.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Repositories/UserRepository.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Repositories/IUserRepository.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Repositories/Friend.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Repositories/IGameCompany.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Repositories/IFriendRepository.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Queries/FriendQueryResult.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Queries/FriendListQueryResult.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Queries/GameCompanyQueryResult.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Queries/GameCompanyListQueryResult.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Repositories/IGameCompanyRepository.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Queries/LoanQueryResult.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Queries/GameQueryResult.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Queries/GameListQueryResult.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Repositories/IGameRepository.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/UserCommands/Outputs/CreateUserCommandResult.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/UserCommands/Outputs/UserCommandResult.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/FriendCommands/Outputs/FriendCommandResult.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/GameCompanyCommands/Outputs/GameCompanyCommandResult.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/GameCommands/Outputs/GameCommandResult.cs" />
         <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/UserCommands/Inputs/CreateUserCommand.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/FriendCommands/Inputs/CreateFriendCommand.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/FriendCommands/Inputs/RemoveFriendCommand.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/GameCompanyCommands/Inputs/CreateGameCompanyCommand.cs" />
+        <option value="$PROJECT_DIR$/GameServices.Tests/Commands/UserCommands/CreateUserCommandTest.cs" />
+        <option value="$PROJECT_DIR$/GameServices.Tests/Commands/GameCompanyCommand/CreateGameCompanyCommandTest.cs" />
+        <option value="$PROJECT_DIR$/GameServices.Tests/Commands/GameCompanyCommands/CreateGameCompanyCommandTest.cs" />
         <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/GameCommands/Inputs/CreateGameCommand.cs" />
         <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/GameCommands/Inputs/RemoveGameCommand.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/GameCommands/Inputs/LoanCommand.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/GameCommands/Inputs/LendCommand.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/GameCommands/Inputs/ReturnCommand.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Handlers/UserHandler.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Handlers/GameCompanyHandler.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/FriendCommands/Inputs/UpdateFriendCommand.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Entities/Person.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Entities/Friend.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Handlers/FriendHandler.cs" />
+        <option value="$PROJECT_DIR$/GameServices.Tests/Commands/GameCommands/UpdateGameCommandTest.cs" />
+        <option value="$PROJECT_DIR$/GameServices.Tests/Commands/GameCommands/ReturnCommandTest.cs" />
+        <option value="$PROJECT_DIR$/GameServices.Tests/Commands/GameCommands/RemoveGameCommandTest.cs" />
+        <option value="$PROJECT_DIR$/GameServices.Tests/Commands/GameCommands/LendCommandTest.cs" />
+        <option value="$PROJECT_DIR$/GameServices.Tests/Commands/GameCommands/CreateGameCommandTest.cs" />
+        <option value="$PROJECT_DIR$/GameServices.Tests/Fakes/FakeUser.cs" />
+        <option value="$PROJECT_DIR$/GameServices.Tests/Fakes/FakeUserRepository.cs" />
+        <option value="$PROJECT_DIR$/GameServices.Tests/Handlers/FriendHandlerTests.cs" />
+        <option value="$PROJECT_DIR$/GameServices.Tests/Handlers/GameCompanyHandlerTests.cs" />
         <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/GameCommands/Inputs/UpdateGameCommand.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Entities/Game.cs" />
-        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Handlers/GameHandler.cs" />
+        <option value="$PROJECT_DIR$/GameServices.Tests/Handlers/UserHandlerTests.cs" />
+        <option value="$PROJECT_DIR$/GameServices.Tests/Handlers/GameHandlerTests.cs" />
+        <option value="$PROJECT_DIR$/GameServices.Infra/Class1.cs" />
+        <option value="$PROJECT_DIR$/GameServices.Infra/Contexts/GameServiceContext.cs" />
+        <option value="$PROJECT_DIR$/GameServices.Infra/Repositories/UserRepository.cs" />
+        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Queries/GameQueryResult.cs" />
+        <option value="$PROJECT_DIR$/GameService.Shared/Settings.cs" />
+        <option value="$PROJECT_DIR$/GameServices.Infra/GameServices.Infra.csproj" />
+        <option value="$PROJECT_DIR$/Migrations/Program.cs" />
+        <option value="$PROJECT_DIR$/GameServices.Infra/Mappings/UserMapping.cs" />
+        <option value="$PROJECT_DIR$/GameServices.Infra/Mappings/LoanMapping.cs" />
+        <option value="$PROJECT_DIR$/GameServices.Infra/Mappings/GameMapping.cs" />
+        <option value="$PROJECT_DIR$/GameServices.Infra/Mappings/GameCompanyMapping.cs" />
+        <option value="$PROJECT_DIR$/GameServices.Infra/Mappings/FriendMapping.cs" />
+        <option value="$PROJECT_DIR$/GameService.API/appsettings.json" />
+        <option value="$PROJECT_DIR$/GameServices.Infra/Transactions/IUnitOfWork.cs" />
+        <option value="$PROJECT_DIR$/GameServices.Infra/Transactions/UnitOfWork.cs" />
+        <option value="$PROJECT_DIR$/GameService.API/Security/TokenOptions.cs" />
+        <option value="$PROJECT_DIR$/GameService.API/Startup.cs" />
+        <option value="$PROJECT_DIR$/GameService.API/Controllers/BaseController.cs" />
+        <option value="$PROJECT_DIR$/GameService.API/Controllers/UserController.cs" />
+        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Repositories/IFriendRepository.cs" />
+        <option value="$PROJECT_DIR$/GameServices.Infra/Repositories/FriendRepository.cs" />
+        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Repositories/IGameCompanyRepository.cs" />
+        <option value="$PROJECT_DIR$/GameServices.Infra/Repositories/GameCompanyRepository.cs" />
+        <option value="$PROJECT_DIR$/GameServices.Infra/Repositories/GameRepository.cs" />
+        <option value="$PROJECT_DIR$/GameServices.Domain/GamesContext/Repositories/IGameRepository.cs" />
+        <option value="$PROJECT_DIR$/GameServices.Tests/Fakes/FakeFriendRepository.cs" />
+        <option value="$PROJECT_DIR$/GameServices.Tests/Fakes/FakeGameCompanyRepository.cs" />
+        <option value="$PROJECT_DIR$/GameServices.Tests/Fakes/FakeGameRepository.cs" />
+        <option value="$PROJECT_DIR$/GameService.API/Controllers/FriendController.cs" />
+        <option value="$PROJECT_DIR$/GameService.API/Controllers/GameCategory.cs" />
+        <option value="$PROJECT_DIR$/GameService.API/Controllers/GameCompany.cs" />
+        <option value="$PROJECT_DIR$/GameService.API/Controllers/GameCompanyController.cs" />
+        <option value="$PROJECT_DIR$/GameService.API/Controllers/GameController.cs" />
       </list>
     </option>
   </component>
@@ -479,80 +373,100 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="GameServices (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="GameServices (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="GameServices (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="GameServices.Domain" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="GameServices (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="GameService.API" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="GameServices (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="GameServices.Domain" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="GamesContext" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="GameServices (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="GameService.API" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Controllers" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="GameServices (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="GameServices.Domain" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="GamesContext" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="GameServices (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="GameService.Shared" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="GameServices (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="GameService.Shared" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Commands" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="GameServices (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="GameServices (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="GameServices.Domain" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="GamesContext" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Commands" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="GameCommands" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="GameServices (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="GameServices (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="GameServices.Domain" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="GamesContext" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Commands" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="GameCommands" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Inputs" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="GameServices (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="GameServices.Domain" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="GamesContext" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Entities" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="GameServices (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="GameServices (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="GameServices.Domain" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="GamesContext" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Handlers" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="GameServices (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="GameServices (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="GameServices.Domain" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="GamesContext" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="ValueObjects" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Queries" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="GameServices (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="GameServices (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="GameServices.Domain" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="GamesContext" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Repositories" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="GameServices (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="GameServices.Infra" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="GameServices (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="GameServices.Infra" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Mappings" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="GameServices (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="GameServices.Infra" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Repositories" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="GameServices (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="GameServices.Infra" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Transactions" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="GameServices (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="GameServices.Tests" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="GameServices (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="GameServices (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="GameServices.Tests" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Entities" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Fakes" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -560,11 +474,12 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../dotnet/1974/BaltaStore.sln" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../dotnet/mwa-api-2017/src/ModernStore.sln" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -612,11 +527,12 @@
       <option name="presentableId" value="Default" />
       <updated>1519694791815</updated>
       <workItem from="1519694797709" duration="17719000" />
+      <workItem from="1519767163784" duration="26796000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17719000" />
+    <option name="totallyTimeSpent" value="44515000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -631,26 +547,26 @@
     <frame x="1366" y="-2" width="1920" height="1082" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991803" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991803" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991803" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991803" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32991803" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991803" sideWeight="0.49791667" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991803" sideWeight="0.49791667" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35572916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32991803" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39959016" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -688,529 +604,28 @@
           </properties>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/GameServices.Tests/Handlers/GameHandlerTests.cs</url>
+          <line>82</line>
+          <properties documentPath="$PROJECT_DIR$/GameServices.Tests/Handlers/GameHandlerTests.cs">
+            <startOffsets>
+              <startOffset value="2352" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="2454" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/GameService.Shared/Class1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameService.Shared/Settings.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="57" lean-forward="false" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
-          <folding>
-            <marker date="1519695127799" expanded="true" signature="28:137" ph="{...}" />
-            <marker date="1519695127799" expanded="true" signature="63:135" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameService.Shared/Entities/Entity.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-          <folding>
-            <marker date="1519695330968" expanded="true" signature="6:40" ph="..." />
-            <marker date="1519695330968" expanded="true" signature="79:235" ph="{...}" />
-            <marker date="1519695330968" expanded="true" signature="118:233" ph="{...}" />
-            <marker date="1519695330968" expanded="true" signature="144:185" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameService.Shared/Commands/ICommandResult.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-          <folding>
-            <marker date="1519695406009" expanded="true" signature="37:194" ph="{...}" />
-            <marker date="1519695406009" expanded="true" signature="75:192" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameService.Shared/Commands/ICommandHandler.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="40" lean-forward="false" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-          <folding>
-            <marker date="1519695461469" expanded="true" signature="37:156" ph="{...}" />
-            <marker date="1519695461469" expanded="true" signature="100:154" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Domain/Class1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameService.Shared/Commands/ICommand.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-          <folding>
-            <marker date="1519695341988" expanded="true" signature="37:105" ph="{...}" />
-            <marker date="1519695341988" expanded="true" signature="69:103" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/ValueObjects/Phone.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Tests/UnitTest1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Tests/ValueObject/NameTests.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <marker date="1519698722871" expanded="true" signature="6:101" ph="..." />
-            <marker date="1519698722871" expanded="true" signature="143:441" ph="{...}" />
-            <marker date="1519698722871" expanded="true" signature="172:439" ph="{...}" />
-            <marker date="1519698722871" expanded="true" signature="258:433" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Tests/ValueObject/EmailTest.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <marker date="1519699260035" expanded="true" signature="6:65" ph="..." />
-            <marker date="1519699260035" expanded="true" signature="107:399" ph="{...}" />
-            <marker date="1519699260035" expanded="true" signature="136:397" ph="{...}" />
-            <marker date="1519699260035" expanded="true" signature="223:391" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Tests/Entities/UserTest.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="69" column="67" lean-forward="false" selection-start-line="69" selection-start-column="67" selection-end-line="69" selection-end-column="78" />
-          <folding>
-            <marker date="1519700397305" expanded="true" signature="6:114" ph="..." />
-            <marker date="1519700397305" expanded="true" signature="153:2440" ph="{...}" />
-            <marker date="1519700397305" expanded="true" signature="181:2438" ph="{...}" />
-            <marker date="1519700397305" expanded="true" signature="270:441" ph="{...}" />
-            <marker date="1519700397305" expanded="true" signature="533:709" ph="{...}" />
-            <marker date="1519700397305" expanded="true" signature="808:993" ph="{...}" />
-            <marker date="1519700397305" expanded="true" signature="1063:1188" ph="{...}" />
-            <marker date="1519700397305" expanded="true" signature="1295:1524" ph="{...}" />
-            <marker date="1519700397305" expanded="true" signature="1626:1854" ph="{...}" />
-            <marker date="1519700397305" expanded="true" signature="1945:2116" ph="{...}" />
-            <marker date="1519700397305" expanded="true" signature="2215:2432" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Entities/GameCompany.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-          <folding>
-            <marker date="1519702301953" expanded="true" signature="87:411" ph="{...}" />
-            <marker date="1519702301953" expanded="true" signature="127:409" ph="{...}" />
-            <marker date="1519702301953" expanded="true" signature="165:185" ph="{...}" />
-            <marker date="1519702301953" expanded="true" signature="237:307" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Tests/Entities/GameTests.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1278">
-          <caret line="71" column="40" lean-forward="false" selection-start-line="71" selection-start-column="40" selection-end-line="71" selection-end-column="40" />
-          <folding>
-            <marker date="1519704564490" expanded="true" signature="6:114" ph="..." />
-            <marker date="1519704564490" expanded="true" signature="153:2868" ph="{...}" />
-            <marker date="1519704564490" expanded="true" signature="182:2866" ph="{...}" />
-            <marker date="1519704564490" expanded="true" signature="273:950" ph="{...}" />
-            <marker date="1519704564490" expanded="true" signature="1019:1567" ph="{...}" />
-            <marker date="1519704564490" expanded="true" signature="1668:2217" ph="{...}" />
-            <marker date="1519704564490" expanded="true" signature="2297:2860" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Queries/FriendQueryResult.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="37" lean-forward="false" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-          <folding>
-            <marker date="1519706217936" expanded="true" signature="65:535" ph="{...}" />
-            <marker date="1519706217936" expanded="true" signature="102:533" ph="{...}" />
-            <marker date="1519706217936" expanded="true" signature="194:320" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Queries/FriendListQueryResult.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="41" lean-forward="false" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
-          <folding>
-            <marker date="1519706052935" expanded="true" signature="65:439" ph="{...}" />
-            <marker date="1519706052935" expanded="true" signature="106:437" ph="{...}" />
-            <marker date="1519706052935" expanded="true" signature="185:278" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Queries/GameCompanyListQueryResult.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="41" lean-forward="false" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
-          <folding>
-            <marker date="1519706110783" expanded="true" signature="65:355" ph="{...}" />
-            <marker date="1519706110783" expanded="true" signature="111:353" ph="{...}" />
-            <marker date="1519706110783" expanded="true" signature="181:252" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Queries/LoanQueryResult.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-          <folding>
-            <marker date="1519708046122" expanded="true" signature="65:560" ph="{...}" />
-            <marker date="1519708046122" expanded="true" signature="100:558" ph="{...}" />
-            <marker date="1519708046122" expanded="true" signature="202:342" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Queries/GameQueryResult.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-          <folding>
-            <marker date="1519708263228" expanded="true" signature="6:47" ph="..." />
-            <marker date="1519708263228" expanded="true" signature="99:806" ph="{...}" />
-            <marker date="1519708263228" expanded="true" signature="134:804" ph="{...}" />
-            <marker date="1519708263228" expanded="true" signature="279:473" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Queries/GameListQueryResult.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-          <folding>
-            <marker date="1519708348984" expanded="true" signature="65:566" ph="{...}" />
-            <marker date="1519708348984" expanded="true" signature="104:564" ph="{...}" />
-            <marker date="1519708348984" expanded="true" signature="208:350" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Repositories/IUserRepository.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-          <folding>
-            <marker date="1519704924654" expanded="false" signature="6:62" ph="..." />
-            <marker date="1519704924654" expanded="true" signature="119:274" ph="{...}" />
-            <marker date="1519704924654" expanded="true" signature="158:272" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/ValueObjects/Name.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="17" column="104" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="17" selection-end-column="104" />
-          <folding>
-            <marker date="1519697035731" expanded="false" signature="6:51" ph="..." />
-            <marker date="1519697035731" expanded="true" signature="108:1006" ph="{...}" />
-            <marker date="1519697035731" expanded="true" signature="145:1004" ph="{...}" />
-            <marker date="1519697035731" expanded="true" signature="206:781" ph="{...}" />
-            <marker date="1519697035731" expanded="true" signature="932:998" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/ValueObjects/Email.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="12" column="64" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="64" />
-          <folding>
-            <marker date="1519697212731" expanded="false" signature="6:51" ph="..." />
-            <marker date="1519697212731" expanded="true" signature="108:516" ph="{...}" />
-            <marker date="1519697212731" expanded="true" signature="146:514" ph="{...}" />
-            <marker date="1519697212731" expanded="true" signature="189:392" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Repositories/IFriendRepository.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-          <folding>
-            <marker date="1519705942898" expanded="false" signature="6:144" ph="..." />
-            <marker date="1519705942898" expanded="true" signature="201:501" ph="{...}" />
-            <marker date="1519705942898" expanded="true" signature="242:499" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Tests/Entities/FriendTest.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="14" selection-end-column="59" />
-          <folding>
-            <marker date="1519702302109" expanded="false" signature="6:114" ph="..." />
-            <marker date="1519702302109" expanded="true" signature="153:1038" ph="{...}" />
-            <marker date="1519702302109" expanded="true" signature="183:1036" ph="{...}" />
-            <marker date="1519702302109" expanded="true" signature="267:638" ph="{...}" />
-            <marker date="1519702302109" expanded="true" signature="709:1030" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/UserCommands/Outputs/UserCommandResult.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="15" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-          <folding>
-            <marker date="1519709112984" expanded="true" signature="108:483" ph="{...}" />
-            <marker date="1519709112984" expanded="true" signature="162:481" ph="{...}" />
-            <marker date="1519709112984" expanded="true" signature="243:348" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/FriendCommands/Outputs/FriendCommandResult.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-          <folding>
-            <marker date="1519709808728" expanded="true" signature="110:489" ph="{...}" />
-            <marker date="1519709808728" expanded="true" signature="166:487" ph="{...}" />
-            <marker date="1519709808728" expanded="true" signature="249:354" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/GameCompanyCommands/Outputs/GameCompanyCommandResult.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-          <folding>
-            <marker date="1519709910673" expanded="true" signature="115:504" ph="{...}" />
-            <marker date="1519709910673" expanded="true" signature="176:502" ph="{...}" />
-            <marker date="1519709910673" expanded="true" signature="264:369" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Repositories/IGameCompanyRepository.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="12" column="54" lean-forward="false" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
-          <folding>
-            <marker date="1519706127939" expanded="false" signature="6:144" ph="..." />
-            <marker date="1519706127939" expanded="true" signature="201:396" ph="{...}" />
-            <marker date="1519706127939" expanded="true" signature="247:394" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Repositories/IGameRepository.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-          <folding>
-            <marker date="1519708380848" expanded="false" signature="6:144" ph="..." />
-            <marker date="1519708380848" expanded="true" signature="201:475" ph="{...}" />
-            <marker date="1519708380848" expanded="true" signature="240:473" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/GameCommands/Outputs/GameCommandResult.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-          <folding>
-            <marker date="1519710188990" expanded="true" signature="108:483" ph="{...}" />
-            <marker date="1519710188990" expanded="true" signature="162:481" ph="{...}" />
-            <marker date="1519710188990" expanded="true" signature="243:348" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/UserCommands/Inputs/CreateUserCommand.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="45" lean-forward="false" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
-          <folding>
-            <marker date="1519711215727" expanded="true" signature="6:86" ph="..." />
-            <marker date="1519711215727" expanded="true" signature="159:1398" ph="{...}" />
-            <marker date="1519711215727" expanded="true" signature="219:1396" ph="{...}" />
-            <marker date="1519711215727" expanded="true" signature="543:1390" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/FriendCommands/Inputs/CreateFriendCommand.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="13" column="35" lean-forward="false" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-          <folding>
-            <marker date="1519711603734" expanded="true" signature="6:100" ph="..." />
-            <marker date="1519711603734" expanded="true" signature="175:1371" ph="{...}" />
-            <marker date="1519711603734" expanded="true" signature="236:1369" ph="{...}" />
-            <marker date="1519711603734" expanded="true" signature="500:1363" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/FriendCommands/Inputs/RemoveFriendCommand.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          <folding>
-            <marker date="1519711999749" expanded="true" signature="6:100" ph="..." />
-            <marker date="1519711999749" expanded="true" signature="175:521" ph="{...}" />
-            <marker date="1519711999749" expanded="true" signature="237:519" ph="{...}" />
-            <marker date="1519711999749" expanded="true" signature="318:513" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/GameCommands/Inputs/RemoveGameCommand.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="14" column="100" lean-forward="false" selection-start-line="14" selection-start-column="100" selection-end-line="14" selection-end-column="100" />
-          <folding>
-            <marker date="1519710739859" expanded="false" signature="6:100" ph="..." />
-            <marker date="1519710739859" expanded="true" signature="173:526" ph="{...}" />
-            <marker date="1519710739859" expanded="true" signature="233:524" ph="{...}" />
-            <marker date="1519710739859" expanded="true" signature="321:518" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/GameCommands/Inputs/LoanCommand.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="40" lean-forward="false" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/GameCommands/Inputs/CreateGameCommand.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="105" />
-          <folding>
-            <marker date="1519710600073" expanded="true" signature="6:100" ph="..." />
-            <marker date="1519710600073" expanded="true" signature="173:899" ph="{...}" />
-            <marker date="1519710600073" expanded="true" signature="233:897" ph="{...}" />
-            <marker date="1519710600073" expanded="true" signature="404:891" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/GameCommands/Inputs/LendCommand.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-          <folding>
-            <marker date="1519712681593" expanded="true" signature="6:100" ph="..." />
-            <marker date="1519712681593" expanded="true" signature="173:663" ph="{...}" />
-            <marker date="1519712681593" expanded="true" signature="227:661" ph="{...}" />
-            <marker date="1519712681593" expanded="true" signature="354:655" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/GameCommands/Inputs/ReturnCommand.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="30" lean-forward="false" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-          <folding>
-            <marker date="1519711153458" expanded="true" signature="6:100" ph="..." />
-            <marker date="1519711153458" expanded="true" signature="173:510" ph="{...}" />
-            <marker date="1519711153458" expanded="true" signature="229:508" ph="{...}" />
-            <marker date="1519711153458" expanded="true" signature="304:502" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/GameCompanyCommands/Inputs/CreateGameCompanyCommand.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="17" column="92" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="17" selection-end-column="92" />
-          <folding>
-            <marker date="1519710452200" expanded="true" signature="6:100" ph="..." />
-            <marker date="1519710452200" expanded="true" signature="180:765" ph="{...}" />
-            <marker date="1519710452200" expanded="true" signature="248:763" ph="{...}" />
-            <marker date="1519710452200" expanded="true" signature="373:757" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Handlers/UserHandler.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="31" selection-end-column="106" />
-          <folding>
-            <marker date="1519711565090" expanded="true" signature="6:355" ph="..." />
-            <marker date="1519711565090" expanded="true" signature="408:1582" ph="{...}" />
-            <marker date="1519711565090" expanded="true" signature="488:1580" ph="{...}" />
-            <marker date="1519711565090" expanded="true" signature="604:662" ph="{...}" />
-            <marker date="1519711565090" expanded="true" signature="727:1574" ph="{...}" />
-            <marker date="1519711565090" expanded="true" signature="1439:1562" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/FriendCommands/Inputs/UpdateFriendCommand.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="73" lean-forward="false" selection-start-line="18" selection-start-column="73" selection-end-line="18" selection-end-column="73" />
-          <folding>
-            <marker date="1519712564697" expanded="false" signature="6:100" ph="..." />
-            <marker date="1519712564697" expanded="true" signature="175:1356" ph="{...}" />
-            <marker date="1519712564697" expanded="true" signature="236:1354" ph="{...}" />
-            <marker date="1519712564697" expanded="true" signature="496:1348" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Entities/User.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
+        <state relative-caret-position="229">
           <caret line="22" column="92" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="22" selection-end-column="92" />
           <folding>
             <marker date="1519700712942" expanded="false" signature="6:123" ph="..." />
@@ -1225,10 +640,206 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Entities/Person.cs">
+    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Entities/GameCompany.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+          <folding>
+            <marker date="1519776921101" expanded="true" signature="87:411" ph="{...}" />
+            <marker date="1519776921101" expanded="true" signature="127:409" ph="{...}" />
+            <marker date="1519776921101" expanded="true" signature="165:185" ph="{...}" />
+            <marker date="1519776921101" expanded="true" signature="237:307" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Entities/Friend.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="26" column="26" lean-forward="false" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+          <folding>
+            <marker date="1519776941537" expanded="false" signature="6:77" ph="..." />
+            <marker date="1519776941537" expanded="true" signature="130:1224" ph="{...}" />
+            <marker date="1519776941537" expanded="true" signature="165:1222" ph="{...}" />
+            <marker date="1519776941537" expanded="true" signature="198:231" ph="{...}" />
+            <marker date="1519776941537" expanded="true" signature="323:664" ph="{...}" />
+            <marker date="1519776941537" expanded="true" signature="729:1110" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Entities/Loan.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <marker date="1519702939075" expanded="false" signature="6:48" ph="..." />
+            <marker date="1519702939075" expanded="true" signature="101:569" ph="{...}" />
+            <marker date="1519702939075" expanded="true" signature="134:567" ph="{...}" />
+            <marker date="1519702939075" expanded="true" signature="165:185" ph="{...}" />
+            <marker date="1519702939075" expanded="true" signature="221:307" ph="{...}" />
+            <marker date="1519702939075" expanded="true" signature="502:561" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameServices.Infra/Contexts/GameServiceContext.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="44" lean-forward="false" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+          <caret line="17" column="46" lean-forward="false" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+          <folding>
+            <marker date="1519785268989" expanded="true" signature="6:146" ph="..." />
+            <marker date="1519785268989" expanded="true" signature="185:1056" ph="{...}" />
+            <marker date="1519785268989" expanded="true" signature="235:1054" ph="{...}" />
+            <marker date="1519785268989" expanded="true" signature="327:415" ph="{...}" />
+            <marker date="1519785268989" expanded="true" signature="699:1048" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameServices.Tests/ValueObject/NameTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="12" column="52" lean-forward="false" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+          <folding>
+            <marker date="1519698722871" expanded="false" signature="6:101" ph="..." />
+            <marker date="1519698722871" expanded="true" signature="143:441" ph="{...}" />
+            <marker date="1519698722871" expanded="true" signature="172:439" ph="{...}" />
+            <marker date="1519698722871" expanded="true" signature="258:433" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Entities/Game.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <marker date="1519776932457" expanded="false" signature="6:154" ph="..." />
+            <marker date="1519776932457" expanded="true" signature="207:1770" ph="{...}" />
+            <marker date="1519776932457" expanded="true" signature="240:1768" ph="{...}" />
+            <marker date="1519776932457" expanded="true" signature="325:345" ph="{...}" />
+            <marker date="1519776932457" expanded="true" signature="411:630" ph="{...}" />
+            <marker date="1519776932457" expanded="true" signature="691:767" ph="{...}" />
+            <marker date="1519776932457" expanded="true" signature="1125:1395" ph="{...}" />
+            <marker date="1519776932457" expanded="true" signature="1162:1259" ph="{...}" />
+            <marker date="1519776932457" expanded="true" signature="1425:1762" ph="{...}" />
+            <marker date="1519776932457" expanded="true" signature="1463:1635" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Queries/FriendQueryResult.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1519706217936" expanded="true" signature="65:535" ph="{...}" />
+            <marker date="1519706217936" expanded="true" signature="102:533" ph="{...}" />
+            <marker date="1519706217936" expanded="true" signature="194:320" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Queries/FriendListQueryResult.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1519706052935" expanded="true" signature="65:439" ph="{...}" />
+            <marker date="1519706052935" expanded="true" signature="106:437" ph="{...}" />
+            <marker date="1519706052935" expanded="true" signature="185:278" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Queries/GameCompanyListQueryResult.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1519706110783" expanded="true" signature="65:355" ph="{...}" />
+            <marker date="1519706110783" expanded="true" signature="111:353" ph="{...}" />
+            <marker date="1519706110783" expanded="true" signature="181:252" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameServices.Infra/Repositories/UserRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="29" column="37" lean-forward="false" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+          <folding>
+            <marker date="1519785592435" expanded="true" signature="6:169" ph="..." />
+            <marker date="1519785592435" expanded="true" signature="212:810" ph="{...}" />
+            <marker date="1519785592435" expanded="true" signature="264:808" ph="{...}" />
+            <marker date="1519785592435" expanded="true" signature="383:435" ph="{...}" />
+            <marker date="1519785592435" expanded="true" signature="469:556" ph="{...}" />
+            <marker date="1519785592435" expanded="true" signature="608:707" ph="{...}" />
+            <marker date="1519785592435" expanded="true" signature="744:802" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Queries/LoanQueryResult.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1519708046122" expanded="true" signature="65:560" ph="{...}" />
+            <marker date="1519708046122" expanded="true" signature="100:558" ph="{...}" />
+            <marker date="1519708046122" expanded="true" signature="202:342" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameService.Shared/Settings.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <marker date="1519792122500" expanded="true" signature="28:251" ph="{...}" />
+            <marker date="1519792122500" expanded="true" signature="63:249" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Migrations/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameServices.API/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameServices.API/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameServices.Infra/GameServices.Infra.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="23" column="10" lean-forward="false" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Entities/Person.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
           <folding>
             <marker date="1519712719085" expanded="false" signature="6:87" ph="..." />
             <marker date="1519712719085" expanded="true" signature="140:480" ph="{...}" />
@@ -1239,54 +850,216 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Entities/Friend.cs">
+    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/ValueObjects/Name.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="31" column="99" lean-forward="false" selection-start-line="31" selection-start-column="99" selection-end-line="31" selection-end-column="99" />
+        <state relative-caret-position="-90">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
           <folding>
-            <marker date="1519712798921" expanded="false" signature="6:77" ph="..." />
-            <marker date="1519712798921" expanded="true" signature="130:1224" ph="{...}" />
-            <marker date="1519712798921" expanded="true" signature="165:1222" ph="{...}" />
-            <marker date="1519712798921" expanded="true" signature="198:231" ph="{...}" />
-            <marker date="1519712798921" expanded="true" signature="323:664" ph="{...}" />
-            <marker date="1519712798921" expanded="true" signature="729:1110" ph="{...}" />
+            <marker date="1519697035731" expanded="false" signature="6:51" ph="..." />
+            <marker date="1519697035731" expanded="true" signature="108:1006" ph="{...}" />
+            <marker date="1519697035731" expanded="true" signature="145:1004" ph="{...}" />
+            <marker date="1519697035731" expanded="true" signature="206:781" ph="{...}" />
+            <marker date="1519697035731" expanded="true" signature="932:998" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Commands/GameCommands/Inputs/UpdateGameCommand.cs">
+    <entry file="file://$PROJECT_DIR$/GameService.Shared/Entities/Entity.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <marker date="1519695330968" expanded="false" signature="6:40" ph="..." />
+            <marker date="1519695330968" expanded="true" signature="79:235" ph="{...}" />
+            <marker date="1519695330968" expanded="true" signature="118:233" ph="{...}" />
+            <marker date="1519695330968" expanded="true" signature="144:185" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameServices.Infra/Mappings/UserMapping.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="24" column="12" lean-forward="false" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="49" />
+          <folding>
+            <marker date="1519797753822" expanded="false" signature="6:193" ph="..." />
+            <marker date="1519797753822" expanded="true" signature="232:1150" ph="{...}" />
+            <marker date="1519797753822" expanded="true" signature="296:1148" ph="{...}" />
+            <marker date="1519797753822" expanded="true" signature="365:1142" ph="{...}" />
+            <marker date="1519797753822" expanded="true" signature="499:749" ph="{...}" />
+            <marker date="1519797753822" expanded="true" signature="799:926" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameServices.Infra/Mappings/LoanMapping.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
-          <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <caret line="15" column="49" lean-forward="false" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
           <folding>
-            <marker date="1519713043930" expanded="false" signature="6:100" ph="..." />
-            <marker date="1519713043930" expanded="true" signature="173:896" ph="{...}" />
-            <marker date="1519713043930" expanded="true" signature="233:894" ph="{...}" />
-            <marker date="1519713043930" expanded="true" signature="408:888" ph="{...}" />
+            <marker date="1519797737730" expanded="false" signature="6:140" ph="..." />
+            <marker date="1519797737730" expanded="true" signature="179:625" ph="{...}" />
+            <marker date="1519797737730" expanded="true" signature="243:623" ph="{...}" />
+            <marker date="1519797737730" expanded="true" signature="312:617" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Handlers/GameCompanyHandler.cs">
+    <entry file="file://$PROJECT_DIR$/GameServices.Infra/Mappings/GameMapping.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="28" column="113" lean-forward="false" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="113" />
+        <state relative-caret-position="263">
+          <caret line="18" column="49" lean-forward="false" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
           <folding>
-            <marker date="1519712681777" expanded="true" signature="6:341" ph="..." />
-            <marker date="1519712681777" expanded="true" signature="394:1428" ph="{...}" />
-            <marker date="1519712681777" expanded="true" signature="488:1426" ph="{...}" />
-            <marker date="1519712681777" expanded="true" signature="715:819" ph="{...}" />
-            <marker date="1519712681777" expanded="true" signature="891:1420" ph="{...}" />
+            <marker date="1519797742638" expanded="false" signature="6:140" ph="..." />
+            <marker date="1519797742638" expanded="true" signature="179:787" ph="{...}" />
+            <marker date="1519797742638" expanded="true" signature="243:785" ph="{...}" />
+            <marker date="1519797742638" expanded="true" signature="312:779" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameServices.Infra/Mappings/GameCompanyMapping.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="14" column="49" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+          <folding>
+            <marker date="1519797747706" expanded="false" signature="6:140" ph="..." />
+            <marker date="1519797747706" expanded="true" signature="179:608" ph="{...}" />
+            <marker date="1519797747706" expanded="true" signature="257:606" ph="{...}" />
+            <marker date="1519797747706" expanded="true" signature="333:600" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameServices.Infra/Mappings/FriendMapping.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="22" column="40" lean-forward="false" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+          <folding>
+            <marker date="1519798058770" expanded="false" signature="6:140" ph="..." />
+            <marker date="1519798058770" expanded="true" signature="179:999" ph="{...}" />
+            <marker date="1519798058770" expanded="true" signature="247:997" ph="{...}" />
+            <marker date="1519798058770" expanded="true" signature="318:991" ph="{...}" />
+            <marker date="1519798058770" expanded="true" signature="453:687" ph="{...}" />
+            <marker date="1519798058770" expanded="true" signature="737:864" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Queries/GameListQueryResult.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="36" lean-forward="false" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+          <folding>
+            <marker date="1519708348984" expanded="true" signature="65:566" ph="{...}" />
+            <marker date="1519708348984" expanded="true" signature="104:564" ph="{...}" />
+            <marker date="1519708348984" expanded="true" signature="208:350" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameService.API/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameServices.Infra/Transactions/IUnitOfWork.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding>
+            <marker date="1519798771537" expanded="true" signature="41:138" ph="{...}" />
+            <marker date="1519798771537" expanded="true" signature="76:136" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameServices.Infra/Transactions/UnitOfWork.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <folding>
+            <marker date="1519798834125" expanded="true" signature="77:447" ph="{...}" />
+            <marker date="1519798834125" expanded="true" signature="121:445" ph="{...}" />
+            <marker date="1519798834125" expanded="true" signature="236:288" ph="{...}" />
+            <marker date="1519798834125" expanded="true" signature="318:374" ph="{...}" />
+            <marker date="1519798834125" expanded="true" signature="406:439" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameService.API/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1519798037330" expanded="true" signature="6:255" ph="..." />
+            <marker date="1519798037330" expanded="true" signature="282:603" ph="{...}" />
+            <marker date="1519798037330" expanded="true" signature="309:601" ph="{...}" />
+            <marker date="1519798037330" expanded="true" signature="362:420" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameService.API/Security/TokenOptions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameService.API/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="45" lean-forward="false" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+          <folding>
+            <marker date="1519800160216" expanded="true" signature="6:472" ph="..." />
+            <marker date="1519800160216" expanded="true" signature="499:2623" ph="{...}" />
+            <marker date="1519800160216" expanded="true" signature="526:2621" ph="{...}" />
+            <marker date="1519800160216" expanded="true" signature="557:577" ph="{...}" />
+            <marker date="1519800160216" expanded="true" signature="711:1947" ph="{...}" />
+            <marker date="1519800160216" expanded="true" signature="2135:2615" ph="{...}" />
+            <marker date="1519800160216" expanded="true" signature="2182:2259" ph="{...}" />
+            <marker date="1519800160216" expanded="true" signature="2301:2437" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameService.Shared/Commands/ICommandResult.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1519695406009" expanded="true" signature="37:194" ph="{...}" />
+            <marker date="1519695406009" expanded="true" signature="75:192" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameService.API/Controllers/BaseController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="44" lean-forward="false" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+          <folding>
+            <marker date="1519800546623" expanded="true" signature="6:135" ph="..." />
+            <marker date="1519800546623" expanded="true" signature="174:589" ph="{...}" />
+            <marker date="1519800546623" expanded="true" signature="221:587" ph="{...}" />
+            <marker date="1519800546623" expanded="true" signature="332:390" ph="{...}" />
+            <marker date="1519800546623" expanded="true" signature="465:581" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Handlers/FriendHandler.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="81" selection-end-column="9" />
+        <state relative-caret-position="378">
+          <caret line="28" column="68" lean-forward="false" selection-start-line="28" selection-start-column="68" selection-end-line="28" selection-end-column="68" />
           <folding>
-            <marker date="1519713816163" expanded="true" signature="6:373" ph="..." />
+            <marker date="1519713816163" expanded="false" signature="6:373" ph="..." />
             <marker date="1519713816163" expanded="true" signature="426:3025" ph="{...}" />
             <marker date="1519713816163" expanded="true" signature="595:3023" ph="{...}" />
             <marker date="1519713816163" expanded="true" signature="807:911" ph="{...}" />
@@ -1300,55 +1073,254 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Entities/Game.cs">
+    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Queries/GameQueryResult.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="29" column="9" lean-forward="false" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        <state relative-caret-position="180">
+          <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
           <folding>
-            <marker date="1519713102411" expanded="false" signature="6:154" ph="..." />
-            <marker date="1519713102411" expanded="true" signature="207:1770" ph="{...}" />
-            <marker date="1519713102411" expanded="true" signature="240:1768" ph="{...}" />
-            <marker date="1519713102411" expanded="true" signature="325:345" ph="{...}" />
-            <marker date="1519713102411" expanded="true" signature="411:630" ph="{...}" />
-            <marker date="1519713102411" expanded="true" signature="691:767" ph="{...}" />
-            <marker date="1519713102411" expanded="true" signature="1125:1395" ph="{...}" />
-            <marker date="1519713102411" expanded="true" signature="1162:1259" ph="{...}" />
-            <marker date="1519713102411" expanded="true" signature="1425:1762" ph="{...}" />
-            <marker date="1519713102411" expanded="true" signature="1463:1635" ph="{...}" />
+            <marker date="1519791065168" expanded="false" signature="6:115" ph="..." />
+            <marker date="1519791065168" expanded="true" signature="167:1197" ph="{...}" />
+            <marker date="1519791065168" expanded="true" signature="202:1195" ph="{...}" />
+            <marker date="1519791065168" expanded="true" signature="392:622" ph="{...}" />
+            <marker date="1519791065168" expanded="true" signature="993:1189" ph="{...}" />
+            <marker date="1519791065168" expanded="true" signature="1043:1177" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Handlers/GameHandler.cs">
+    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Repositories/IUserRepository.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1638">
-          <caret line="91" column="62" lean-forward="false" selection-start-line="91" selection-start-column="62" selection-end-line="91" selection-end-column="62" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1519713808190" expanded="true" signature="6:302" ph="..." />
-            <marker date="1519713808190" expanded="true" signature="355:3718" ph="{...}" />
-            <marker date="1519713808190" expanded="true" signature="576:3716" ph="{...}" />
-            <marker date="1519713808190" expanded="true" signature="998:1212" ph="{...}" />
-            <marker date="1519713808190" expanded="true" signature="1277:1751" ph="{...}" />
-            <marker date="1519713808190" expanded="true" signature="1816:2295" ph="{...}" />
-            <marker date="1519713808190" expanded="true" signature="2360:2512" ph="{...}" />
-            <marker date="1519713808190" expanded="true" signature="2571:3062" ph="{...}" />
-            <marker date="1519713808190" expanded="true" signature="3123:3503" ph="{...}" />
-            <marker date="1519713808190" expanded="true" signature="3569:3692" ph="{...}" />
+            <marker date="1519704924654" expanded="false" signature="6:62" ph="..." />
+            <marker date="1519704924654" expanded="true" signature="119:274" ph="{...}" />
+            <marker date="1519704924654" expanded="true" signature="158:272" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Entities/Loan.cs">
+    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Repositories/IFriendRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding>
+            <marker date="1519802013886" expanded="false" signature="6:174" ph="..." />
+            <marker date="1519802013886" expanded="true" signature="231:563" ph="{...}" />
+            <marker date="1519802013886" expanded="true" signature="272:561" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameServices.Infra/Repositories/FriendRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="53" column="28" lean-forward="false" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
+          <folding>
+            <marker date="1519802033430" expanded="false" signature="6:318" ph="..." />
+            <marker date="1519802033430" expanded="true" signature="361:1739" ph="{...}" />
+            <marker date="1519802033430" expanded="true" signature="417:1737" ph="{...}" />
+            <marker date="1519802033430" expanded="true" signature="538:590" ph="{...}" />
+            <marker date="1519802033430" expanded="true" signature="626:736" ph="{...}" />
+            <marker date="1519802033430" expanded="true" signature="777:839" ph="{...}" />
+            <marker date="1519802033430" expanded="true" signature="882:967" ph="{...}" />
+            <marker date="1519802033430" expanded="true" signature="1004:1103" ph="{...}" />
+            <marker date="1519802033430" expanded="true" signature="1173:1385" ph="{...}" />
+            <marker date="1519802033430" expanded="true" signature="1468:1731" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Repositories/IGameCompanyRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding>
+            <marker date="1519802040494" expanded="false" signature="6:174" ph="..." />
+            <marker date="1519802040494" expanded="true" signature="231:452" ph="{...}" />
+            <marker date="1519802040494" expanded="true" signature="277:450" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameServices.Infra/Repositories/GameCompanyRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="31" column="18" lean-forward="false" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+          <folding>
+            <marker date="1519802073366" expanded="false" signature="6:318" ph="..." />
+            <marker date="1519802073366" expanded="true" signature="361:1224" ph="{...}" />
+            <marker date="1519802073366" expanded="true" signature="426:1222" ph="{...}" />
+            <marker date="1519802073366" expanded="true" signature="552:604" ph="{...}" />
+            <marker date="1519802073366" expanded="true" signature="645:761" ph="{...}" />
+            <marker date="1519802073366" expanded="true" signature="812:885" ph="{...}" />
+            <marker date="1519802073366" expanded="true" signature="973:1216" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameServices.Infra/Repositories/GameRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding>
+            <marker date="1519802885218" expanded="false" signature="6:318" ph="..." />
+            <marker date="1519802885218" expanded="true" signature="361:1842" ph="{...}" />
+            <marker date="1519802885218" expanded="true" signature="413:1840" ph="{...}" />
+            <marker date="1519802885218" expanded="true" signature="532:584" ph="{...}" />
+            <marker date="1519802885218" expanded="true" signature="618:748" ph="{...}" />
+            <marker date="1519802885218" expanded="true" signature="785:843" ph="{...}" />
+            <marker date="1519802885218" expanded="true" signature="882:965" ph="{...}" />
+            <marker date="1519802885218" expanded="true" signature="1002:1089" ph="{...}" />
+            <marker date="1519802885218" expanded="true" signature="1155:1467" ph="{...}" />
+            <marker date="1519802885218" expanded="true" signature="1548:1834" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Repositories/IGameRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding>
+            <marker date="1519802885162" expanded="false" signature="6:174" ph="..." />
+            <marker date="1519802885162" expanded="true" signature="231:537" ph="{...}" />
+            <marker date="1519802885162" expanded="true" signature="270:535" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameServices.Tests/Fakes/FakeFriendRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="31" column="48" lean-forward="false" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="48" />
+          <folding>
+            <marker date="1519802188135" expanded="false" signature="6:280" ph="..." />
+            <marker date="1519802188135" expanded="true" signature="316:1258" ph="{...}" />
+            <marker date="1519802188135" expanded="true" signature="376:1256" ph="{...}" />
+            <marker date="1519802188135" expanded="true" signature="417:469" ph="{...}" />
+            <marker date="1519802188135" expanded="true" signature="510:530" ph="{...}" />
+            <marker date="1519802188135" expanded="true" signature="573:593" ph="{...}" />
+            <marker date="1519802188135" expanded="true" signature="630:650" ph="{...}" />
+            <marker date="1519802188135" expanded="true" signature="720:789" ph="{...}" />
+            <marker date="1519802188135" expanded="true" signature="872:941" ph="{...}" />
+            <marker date="1519802188135" expanded="true" signature="977:1250" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameServices.Tests/Fakes/FakeGameCompanyRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="27" column="48" lean-forward="false" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="48" />
+          <folding>
+            <marker date="1519802198471" expanded="false" signature="6:280" ph="..." />
+            <marker date="1519802198471" expanded="true" signature="316:944" ph="{...}" />
+            <marker date="1519802198471" expanded="true" signature="386:942" ph="{...}" />
+            <marker date="1519802198471" expanded="true" signature="432:708" ph="{...}" />
+            <marker date="1519802198471" expanded="true" signature="759:779" ph="{...}" />
+            <marker date="1519802198471" expanded="true" signature="867:936" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameServices.Tests/Fakes/FakeGameRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="37" column="48" lean-forward="false" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="48" />
+          <folding>
+            <marker date="1519802213475" expanded="false" signature="6:280" ph="..." />
+            <marker date="1519802213475" expanded="true" signature="316:1228" ph="{...}" />
+            <marker date="1519802213475" expanded="true" signature="372:1226" ph="{...}" />
+            <marker date="1519802213475" expanded="true" signature="411:762" ph="{...}" />
+            <marker date="1519802213475" expanded="true" signature="799:819" ph="{...}" />
+            <marker date="1519802213475" expanded="true" signature="858:878" ph="{...}" />
+            <marker date="1519802213475" expanded="true" signature="915:935" ph="{...}" />
+            <marker date="1519802213475" expanded="true" signature="1001:1070" ph="{...}" />
+            <marker date="1519802213475" expanded="true" signature="1151:1220" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameServices.Domain/GamesContext/Handlers/GameCompanyHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1519712681777" expanded="false" signature="6:341" ph="..." />
+            <marker date="1519712681777" expanded="true" signature="394:1428" ph="{...}" />
+            <marker date="1519712681777" expanded="true" signature="488:1426" ph="{...}" />
+            <marker date="1519712681777" expanded="true" signature="715:819" ph="{...}" />
+            <marker date="1519712681777" expanded="true" signature="891:1420" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameService.API/Controllers/UserController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+          <folding>
+            <marker date="1519800844313" expanded="false" signature="6:253" ph="..." />
+            <marker date="1519800844313" expanded="true" signature="292:802" ph="{...}" />
+            <marker date="1519800844313" expanded="true" signature="343:800" ph="{...}" />
+            <marker date="1519800844313" expanded="true" signature="490:542" ph="{...}" />
+            <marker date="1519800844313" expanded="true" signature="675:794" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameService.API/Controllers/GameCompanyController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="32" column="33" lean-forward="false" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+          <folding>
+            <marker date="1519802636353" expanded="false" signature="6:409" ph="..." />
+            <marker date="1519802636353" expanded="true" signature="448:1399" ph="{...}" />
+            <marker date="1519802636353" expanded="true" signature="497:1397" ph="{...}" />
+            <marker date="1519802636353" expanded="true" signature="752:842" ph="{...}" />
+            <marker date="1519802636353" expanded="true" signature="999:1113" ph="{...}" />
+            <marker date="1519802636353" expanded="true" signature="1243:1391" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameService.API/Controllers/FriendController.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="64" selection-end-column="9" />
           <folding>
-            <marker date="1519702939075" expanded="false" signature="6:48" ph="..." />
-            <marker date="1519702939075" expanded="true" signature="101:569" ph="{...}" />
-            <marker date="1519702939075" expanded="true" signature="134:567" ph="{...}" />
-            <marker date="1519702939075" expanded="true" signature="165:185" ph="{...}" />
-            <marker date="1519702939075" expanded="true" signature="221:307" ph="{...}" />
-            <marker date="1519702939075" expanded="true" signature="502:561" ph="{...}" />
+            <marker date="1519802315519" expanded="false" signature="6:404" ph="..." />
+            <marker date="1519802315519" expanded="true" signature="443:2127" ph="{...}" />
+            <marker date="1519802315519" expanded="true" signature="496:2125" ph="{...}" />
+            <marker date="1519802315519" expanded="true" signature="717:807" ph="{...}" />
+            <marker date="1519802315519" expanded="true" signature="944:1058" ph="{...}" />
+            <marker date="1519802315519" expanded="true" signature="1201:1315" ph="{...}" />
+            <marker date="1519802315519" expanded="true" signature="1438:1657" ph="{...}" />
+            <marker date="1519802315519" expanded="true" signature="1513:1552" ph="{...}" />
+            <marker date="1519802315519" expanded="true" signature="1769:1852" ph="{...}" />
+            <marker date="1519802315519" expanded="true" signature="1971:2119" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameService.API/Controllers/GameController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="41" column="71" lean-forward="false" selection-start-line="41" selection-start-column="71" selection-end-line="41" selection-end-column="71" />
+          <folding>
+            <marker date="1519802876934" expanded="true" signature="6:473" ph="..." />
+            <marker date="1519802876934" expanded="true" signature="512:2679" ph="{...}" />
+            <marker date="1519802876934" expanded="true" signature="563:2677" ph="{...}" />
+            <marker date="1519802876934" expanded="true" signature="792:882" ph="{...}" />
+            <marker date="1519802876934" expanded="true" signature="1014:1128" ph="{...}" />
+            <marker date="1519802876934" expanded="true" signature="1263:1377" ph="{...}" />
+            <marker date="1519802876934" expanded="true" signature="1514:1628" ph="{...}" />
+            <marker date="1519802876934" expanded="true" signature="1767:1881" ph="{...}" />
+            <marker date="1519802876934" expanded="true" signature="2002:2219" ph="{...}" />
+            <marker date="1519802876934" expanded="true" signature="2075:2114" ph="{...}" />
+            <marker date="1519802876934" expanded="true" signature="2327:2408" ph="{...}" />
+            <marker date="1519802876934" expanded="true" signature="2523:2671" ph="{...}" />
           </folding>
         </state>
       </provider>

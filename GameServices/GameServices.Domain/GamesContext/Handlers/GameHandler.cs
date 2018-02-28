@@ -26,7 +26,7 @@ namespace GameServices.Domain.GamesContext.Handlers
         public ICommandResult Handle(CreateGameCommand command)
         {
             var user = _userRepository.Get(command.UserId);
-            var gameCompany = _gameCompanyRepository.Get(command.GuidCompany);
+            var gameCompany = _gameCompanyRepository.Get(command.CompanyId);
 
             var game = new Game(user, command.Name, gameCompany);
             AddNotifications(game.Notifications);
@@ -41,7 +41,7 @@ namespace GameServices.Domain.GamesContext.Handlers
 
         public ICommandResult Handle(UpdateGameCommand command)
         {
-            var gameCompany = _gameCompanyRepository.Get(command.GuidCompany);
+            var gameCompany = _gameCompanyRepository.Get(command.CompanyId);
             var game = _repository.Get(command.Id);
             game.Alter(command.Name, gameCompany);
             

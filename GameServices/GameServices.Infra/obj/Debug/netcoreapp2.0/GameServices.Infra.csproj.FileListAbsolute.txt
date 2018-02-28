@@ -1,0 +1,14 @@
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Infra/bin/Debug/netcoreapp2.0/GameServices.Infra.deps.json
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Infra/bin/Debug/netcoreapp2.0/GameServices.Infra.dll
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Infra/bin/Debug/netcoreapp2.0/GameServices.Infra.pdb
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Infra/bin/Debug/netcoreapp2.0/GameService.Shared.dll
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Infra/bin/Debug/netcoreapp2.0/GameServices.Domain.dll
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Infra/bin/Debug/netcoreapp2.0/GameService.Shared.pdb
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Infra/bin/Debug/netcoreapp2.0/GameServices.Domain.pdb
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Infra/obj/Debug/netcoreapp2.0/GameServices.Infra.csproj.CoreCompileInputs.cache
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Infra/obj/Debug/netcoreapp2.0/GameServices.Infra.AssemblyInfoInputs.cache
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Infra/obj/Debug/netcoreapp2.0/GameServices.Infra.AssemblyInfo.cs
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Infra/obj/Debug/netcoreapp2.0/GameServices.Infra.dll
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Infra/obj/Debug/netcoreapp2.0/GameServices.Infra.pdb
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Infra/bin/Debug/netcoreapp2.0/GameServices.Infra.runtimeconfig.json
+/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Infra/bin/Debug/netcoreapp2.0/GameServices.Infra.runtimeconfig.dev.json

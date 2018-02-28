@@ -7,7 +7,7 @@ namespace GameServices.Domain.GamesContext.Commands.GameCommands.Inputs
 {
     public class RemoveGameCommand : Notifiable, ICommand
     {
-        public Guid Id { get; private set; }
+        public Guid Id { get; set; }
         
         public bool Valid()
         {

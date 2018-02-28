@@ -6,6 +6,27 @@
     <e p="$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.3.1/build/netcoreapp1.0/xunit.runner.utility.netcoreapp10.dll" t="Include" />
     <e p="$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.3.1/build/netcoreapp1.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="GameService.API" t="IncludeRecursive">
+        <e p="Controllers" t="Include">
+          <e p="BaseController.cs" t="Include" />
+          <e p="FriendController.cs" t="Include" />
+          <e p="GameCompanyController.cs" t="Include" />
+          <e p="GameController.cs" t="Include" />
+          <e p="UserController.cs" t="Include" />
+        </e>
+        <e p="GameService.API.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Startup.cs" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="GameService.API.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
       <e p="GameService.Shared" t="IncludeRecursive">
         <e p="Commands" t="Include">
           <e p="ICommand.cs" t="Include" />
@@ -111,13 +132,76 @@
           </e>
         </e>
       </e>
+      <e p="GameServices.Infra" t="IncludeRecursive">
+        <e p="Contexts" t="Include">
+          <e p="GameServiceContext.cs" t="Include" />
+        </e>
+        <e p="GameServices.Infra.csproj" t="IncludeRecursive" />
+        <e p="Mappings" t="Include">
+          <e p="FriendMapping.cs" t="Include" />
+          <e p="GameCompanyMapping.cs" t="Include" />
+          <e p="GameMapping.cs" t="Include" />
+          <e p="LoanMapping.cs" t="Include" />
+          <e p="UserMapping.cs" t="Include" />
+        </e>
+        <e p="Repositories" t="Include">
+          <e p="FriendRepository.cs" t="Include" />
+          <e p="GameCompanyRepository.cs" t="Include" />
+          <e p="GameRepository.cs" t="Include" />
+          <e p="UserRepository.cs" t="Include" />
+        </e>
+        <e p="Transactions" t="Include">
+          <e p="IUnitOfWork.cs" t="Include" />
+          <e p="UnitOfWork.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="GameServices.Infra.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
       <e p="GameServices.Tests" t="IncludeRecursive">
+        <e p="Commands" t="Include">
+          <e p="FriendCommands" t="Include">
+            <e p="CreateFriendCommandTest.cs" t="Include" />
+            <e p="RemoveFriendCommandTest.cs" t="Include" />
+            <e p="UpdateFriendCommandTest.cs" t="Include" />
+          </e>
+          <e p="GameCommands" t="Include">
+            <e p="CreateGameCommandTest.cs" t="Include" />
+            <e p="LendCommandTest.cs" t="Include" />
+            <e p="RemoveGameCommandTest.cs" t="Include" />
+            <e p="ReturnCommandTest.cs" t="Include" />
+            <e p="UpdateGameCommandTest.cs" t="Include" />
+          </e>
+          <e p="GameCompanyCommands" t="Include">
+            <e p="CreateGameCompanyCommandTest.cs" t="Include" />
+          </e>
+          <e p="UserCommands" t="Include">
+            <e p="CreateUserCommandTest.cs" t="Include" />
+          </e>
+        </e>
         <e p="Entities" t="Include">
           <e p="FriendTest.cs" t="Include" />
           <e p="GameTests.cs" t="Include" />
           <e p="UserTest.cs" t="Include" />
         </e>
+        <e p="Fakes" t="Include">
+          <e p="FakeFriendRepository.cs" t="Include" />
+          <e p="FakeGameCompanyRepository.cs" t="Include" />
+          <e p="FakeGameRepository.cs" t="Include" />
+          <e p="FakeUserRepository.cs" t="Include" />
+        </e>
         <e p="GameServices.Tests.csproj" t="IncludeRecursive" />
+        <e p="Handlers" t="Include">
+          <e p="FriendHandlerTests.cs" t="Include" />
+          <e p="GameCompanyHandlerTests.cs" t="Include" />
+          <e p="GameHandlerTests.cs" t="Include" />
+          <e p="UserHandlerTests.cs" t="Include" />
+        </e>
         <e p="ValueObject" t="Include">
           <e p="EmailTest.cs" t="Include" />
           <e p="NameTests.cs" t="Include" />

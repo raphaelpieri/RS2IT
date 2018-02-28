@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Threading.Tasks;
 using GameServices.Domain.GamesContext.Entities;
 using GameServices.Domain.GamesContext.Queries;
 
@@ -12,7 +13,7 @@ namespace GameServices.Domain.GamesContext.Repositories
         void Update(Friend friend);
         void Remove(Guid id);
         
-        FriendQueryResult GetFriendQueryResult(Guid id);
-        IEnumerable<FriendListQueryResult> Get();
+        Task<FriendQueryResult> GetFriendQueryResult(Guid id);
+        Task<List<FriendListQueryResult>> GetListQueryResults(Guid userId);
     }
 }

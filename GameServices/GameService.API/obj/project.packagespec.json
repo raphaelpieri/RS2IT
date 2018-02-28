@@ -1,0 +1,61 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameService.API/GameService.API.csproj",
+    "projectName": "GameService.API",
+    "projectPath": "/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameService.API/GameService.API.csproj",
+    "outputPath": "/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameService.API/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameService.Shared/GameService.Shared.csproj": {
+            "projectPath": "/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameService.Shared/GameService.Shared.csproj"
+          },
+          "/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Domain/GameServices.Domain.csproj": {
+            "projectPath": "/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Domain/GameServices.Domain.csproj"
+          },
+          "/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Infra/GameServices.Infra.csproj": {
+            "projectPath": "/home/raphaelpieri/projetos/avaliacoes/s2it/GameServices/GameServices.Infra/GameServices.Infra.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.AspNetCore.All": {
+          "target": "Package",
+          "version": "[2.0.5, )"
+        },
+        "Microsoft.Extensions.Configuration": {
+          "target": "Package",
+          "version": "[2.0.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

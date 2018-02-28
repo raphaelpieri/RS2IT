@@ -6,6 +6,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameServices.Domain", "Game
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameServices.Tests", "GameServices.Tests\GameServices.Tests.csproj", "{CDDEC660-9DCE-481D-B33C-8A7408CA88EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameServices.Infra", "GameServices.Infra\GameServices.Infra.csproj", "{E86DCFAF-6DAD-456C-B6EB-E2AFAA2A88D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameService.API", "GameService.API\GameService.API.csproj", "{9C018734-767B-4AF9-A0C5-99DDDF8C186A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{CDDEC660-9DCE-481D-B33C-8A7408CA88EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDDEC660-9DCE-481D-B33C-8A7408CA88EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDDEC660-9DCE-481D-B33C-8A7408CA88EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E86DCFAF-6DAD-456C-B6EB-E2AFAA2A88D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E86DCFAF-6DAD-456C-B6EB-E2AFAA2A88D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E86DCFAF-6DAD-456C-B6EB-E2AFAA2A88D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E86DCFAF-6DAD-456C-B6EB-E2AFAA2A88D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C018734-767B-4AF9-A0C5-99DDDF8C186A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C018734-767B-4AF9-A0C5-99DDDF8C186A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C018734-767B-4AF9-A0C5-99DDDF8C186A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C018734-767B-4AF9-A0C5-99DDDF8C186A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Threading.Tasks;
 using GameServices.Domain.GamesContext.Entities;
 using GameServices.Domain.GamesContext.Queries;
 
@@ -12,7 +13,7 @@ namespace GameServices.Domain.GamesContext.Repositories
         void Update(Game game);
         void Remove(Guid id);
 
-        GameQueryResult GetGameQueryResult(Guid id);
-        IEnumerable<GameListQueryResult> Get();
+        Task<GameQueryResult> GetGameQueryResult(Guid id);
+        Task<List<GameListQueryResult>> GetListQueryResults(Guid userId);
     }
 }

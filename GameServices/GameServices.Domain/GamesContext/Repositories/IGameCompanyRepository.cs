@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Threading.Tasks;
 using GameServices.Domain.GamesContext.Entities;
 using GameServices.Domain.GamesContext.Queries;
 
@@ -10,7 +11,7 @@ namespace GameServices.Domain.GamesContext.Repositories
         GameCompany Get(Guid id);
         void Save(GameCompany gameCompany);
 
-        IEnumerable<GameCompanyListQueryResult> Get();
+        Task<List<GameCompanyListQueryResult>> GetListQueryResults(Guid userId);
 
     }
 }

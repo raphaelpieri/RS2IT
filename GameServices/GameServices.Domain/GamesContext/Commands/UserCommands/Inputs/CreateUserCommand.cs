@@ -23,7 +23,8 @@ namespace GameServices.Domain.GamesContext.Commands.UserCommands.Inputs
                 .IsEmail(Email, "Email","O E-mail é inválido")
                 .HasMinLen(Username, 3, "Usuário", "Usuário deve conter no minimo 3 caracteres")
                 .HasMaxLen(Username, 20, "Usuário", "Usuário deve ter no máximo 20 caracteres")
-                .HasMinLen(Password, 3, "Senha", "Senha deve conter no minimo 3 caracteres"));
+                .HasMinLen(Password, 3, "Senha", "Senha deve conter no minimo 3 caracteres")
+                .AreEquals(Password, ConfirmPassword,"Senha", "A senha e a confirmação devem ser iguais"));
 
             return base.Valid;
         }
